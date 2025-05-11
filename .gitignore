@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+gcp-auth-459522-58bc0109b0af.json
+
 # Distribution / packaging
 .Python
 build/
